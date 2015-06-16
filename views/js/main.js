@@ -344,7 +344,7 @@ var makeRandomPizza = function() {
     pizza = pizza + ingredientItemizer(selectRandomMeat());
   }
 
-  for (var i = 0; i < numberOfNonMeats; j++) {
+  for (var j = 0; j < numberOfNonMeats; j++) {
     pizza = pizza + ingredientItemizer(selectRandomNonMeat());
   }
 
