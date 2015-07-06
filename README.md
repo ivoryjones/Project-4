@@ -22,3 +22,5 @@ Reduced the number of pizzas that load on the screen
 
 Changed the height of the pizzas that load to fit most screen sizes
 
+Removed render blocking element from index.html
+
